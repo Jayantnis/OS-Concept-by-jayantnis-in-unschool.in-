@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+///Developer by jayantnis in unschool.in 
 
 int main()
 {	//burst time ,processes,waiting time, turnaround time
