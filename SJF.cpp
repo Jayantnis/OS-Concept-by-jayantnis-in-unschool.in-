@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std; ////developer by jayantnis in unschool.in
 
 int  main()
 {	//burst time ,processes,waiting time, turnaround time
